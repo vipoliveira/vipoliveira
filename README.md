@@ -57,8 +57,6 @@ I feel confortable working with what is necessary to solve the problem, and I am
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Tech Stack
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
